@@ -1,0 +1,8 @@
+# Bảo vệ file .ftpquota
+<files .ftpquota="">
+order allow,deny
+deny from all
+</files>
+
+Version 4.2 Service PQNIT.ASIA
+Hiện chưa có bản cập nhật
